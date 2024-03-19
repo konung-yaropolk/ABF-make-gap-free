@@ -12,7 +12,7 @@ def convert(filename, MIN_X, MAX_X):
     for i in range(abf.sweepCount):
 
         abf.setSweep(i, 0)
-        abf.sweepY[MIN_X:MAX_X] = np. zeros(len(abf.sweepY[MIN_X:MAX_X]))
+        abf.sweepY[MIN_X:MAX_X]. fill(abf.sweepY[MIN_X-1])
 
     abf.saveABF1(filename + s.SAVE_FILE_NAME_ENDING)  # , s.OUTPUT_FREQ*1000) - to save in different samplerate
     print(filename, ' proceed successfull')
