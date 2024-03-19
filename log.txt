@@ -1,4 +1,0 @@
-F:/Lab Work Files/Patch-clamp data/MCU_Project_Yariks_data/2021_06_02/2021_06_02_0041_baselined.abf  proceed successfull
-F:/Lab Work Files/Patch-clamp data/MCU_Project_Yariks_data/2021_06_02/2021_06_02_0042_baselined.abf  proceed successfull
-
-Queue proceed successfull

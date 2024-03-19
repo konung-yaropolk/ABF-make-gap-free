@@ -1,4 +1,4 @@
 echo on
-#python ABF-split-stack.py  > log.txt
-python ABF-split-stack.py
+#python ABF-rc-remover.py  > log.txt
+python ABF-rc-remover.py
 pause
