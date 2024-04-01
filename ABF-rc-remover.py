@@ -29,7 +29,7 @@ def main():
             convert(s.DIRECTORY + path, MIN_X, MAX_X)
         except Exception as e: print(e)
 
-    print('\nQueue proceed successfull')
+    print('\nQueue proceed successfully')
 
 if __name__ == '__main__':
     main()
